@@ -1,0 +1,27 @@
+.class {
+    color: black;
+    background-color: pink;
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: 500;
+}
+
+.class.cool {
+    font-size: larger
+}
+
+#big_id{
+    color: blue;
+    background-color: white;
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: 500
+}
+
+#small_id{
+    color: black;
+    background-color: lightgreen;
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: 600;
+}
