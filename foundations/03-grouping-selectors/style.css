@@ -1,0 +1,15 @@
+button {
+    font-size: xx-large;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.A {
+    color: white;
+    background-color: black;
+}
+
+.B {
+    color: black;
+    background-color: yellow;
+}
